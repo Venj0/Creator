@@ -11,7 +11,7 @@
 <li>  python3 Create -f     <i><u> (+for generate fragment)</u></i></li>     
 <li>  python3 Create -h     <i><u> (+for help)</u></i></li>                  
 <li>  python3 Create -r     <i><u>(+for remove src)/ folder</u></i></li>    
-<li>  python3 Create -s     <i><u> (+for generate page)</u></i></li>         
+<li>  python3 Create -s     <i><u> (+for generate store)</u></i></li>         
 <li>  python3 Create -p     <i><u> (+for generate page)</u></i></li>    
 <li>  python3 Create -u     <i><u> (for generate util)</u></i></li>         
 </ul>
